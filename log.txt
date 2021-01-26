@@ -1,2 +1,3 @@
 Fixed bug#11.
 Fixed bug#31.
+Fixing bug#25...
